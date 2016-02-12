@@ -98,7 +98,7 @@
 
 			<apex:outputPanel>
 
-				<apex:outputText value="" styleClass="separator" value=" " />
+				<apex:outputText value="" styleClass="separator"/>
 
 			</apex:outputPanel>
 
@@ -112,7 +112,7 @@
 
 			<apex:outputPanel>
 
-				<apex:outputText value="" styleClass="separator" value=" " />
+				<apex:outputText value="" styleClass="separator"/>
 
 			</apex:outputPanel>
 
