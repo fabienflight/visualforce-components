@@ -2,10 +2,10 @@
   <apex:sectionHeader title="Opportunity" subtitle="My Opportunities"/>
   <apex:form id="theForm" id="selectedBubbles">
     <apex:panelGroup id="thePlot">
-      <c:bubblePlot id="bubblePlot" value="{!bubbles}" width="650" height="150" rerender="selectedBubbles" status="status"
+      <!--c:bubblePlot id="bubblePlot" value="{!bubbles}" width="650" height="150" rerender="selectedBubbles" status="status"
                     XLabelHigh="Closed" XLabelHighDescription="Higher Probability" XLabelLow="Open" XLabelLowDescription="Lower Probability"
                     YLabelHigh="Alive" YLabelHighDescription="Recent Activity" YLabelLow="Dead" YLabelLowDescription="Neglected"
-                    sizeDescription="Opportunity Amount" primaryColor="#E5C130" secondaryColor="#EEECD1" colordescriptiongray="Each Opportunity"/>
+                    sizeDescription="Opportunity Amount" primaryColor="#E5C130" secondaryColor="#EEECD1" colordescriptiongray="Each Opportunity"/-->
     </apex:panelGroup>
     <apex:pageBlock title="My Open Opportunities">
       <apex:facet name="header">
